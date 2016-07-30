@@ -1,0 +1,12 @@
+
+alias mysql="mysql -u root"
+
+alias c='clear'
+alias install='sudo apt-get install -y'
+alias df='df -h'
+alias ls='ls -la'
+alias upgrade='sudo apt-get upgrade'
+alias re='sudo reboot'
+alias shutdown='sudo shutdown -h now'
+alias up='sudo apt-get update'
+alias remove='sudo apt-get remove -y' 
