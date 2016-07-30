@@ -1,3 +1,10 @@
 [user]
 	name = Marcus Berger
 	email = marcusvcberger@gmail.com
+
+[alias]
+	st = status
+	cm = commit
+	bh = branch
+	lg = log -p
+	ck = checkout
